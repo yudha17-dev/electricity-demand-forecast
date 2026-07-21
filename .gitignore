@@ -1,1 +1,2 @@
-*.csv
+data/raw/time_series_60min_singleindex.csv
+data/processed/germany_load.csv
